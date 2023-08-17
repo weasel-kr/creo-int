@@ -743,3 +743,7 @@ input[type="submit"],
 
 .asana-embed-iframe {border: none !important;}
 .WorkRequestsConfirmationPrompt, .asana-embed-footer{display: none !important;}
+
+@media (min-width: 991px){
+    .content-title{display: none;}
+}
