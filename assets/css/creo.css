@@ -742,6 +742,7 @@ input[type="submit"],
 }
 
 .asana-embed-iframe {border: none !important;}
+.ThemeableRectangularButtonPresentation.ThemeableRectangularButtonPresentation--large{display: none;}
 .WorkRequestsConfirmationPrompt, .asana-embed-footer{display: none !important;}
 
 @media (min-width: 991px){
