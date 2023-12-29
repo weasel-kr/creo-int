@@ -133,6 +133,7 @@ input[type="submit"],
 .ld-dropdown-menu{
     font-family: 'noir-regular';
 }
+.font-noir{font-family: 'noir-regular'}
 
 @media (max-width: 1199px) {
 	.main-header .module-logo {
